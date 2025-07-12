@@ -1,4 +1,6 @@
 # Scripts for extracting NASA PACE OCI vegetation index (LandVI) data to GeoTIF format
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15870562.svg)](https://doi.org/10.5281/zenodo.15870562)
+
 R scripts for converting PACE LandVI data from the original NetCDF to GeoTIF
 
 ## Description: Why do I need these scripts?
@@ -13,3 +15,4 @@ If you would like to skip processing the PACE OCI data on your desktop system an
 
 ## Acknowledgements
 This work is being led by researchers from the [Lab for Applied Science](https://www.uah.edu/essc/laboratory-for-applied-science) of the [Earth System Science Center](https://www.uah.edu/essc) of the [University of Alabama in Huntsville](https://www.uah.edu/) and has been supported by the [NASA](https://www.nasa.gov) Earth Action / NASA [Marshall Space Flight Center](https://www.nasa.gov/marshall/). This work is being done in the context of an [Early Adopters project](https://pace.oceansciences.org/people_ea.htm?id=127) for PACE. The PACE Mission Applications Lead, Dr. Morgaine McKibben (NASA / SSAI), is acknowledged for her support, as are Skye Caplan (NASA / SSAI) of the PACE mission, and Dr. K. Fred Huemmrich of the PACE Science & Applications Team (NASA / UMBC). Kudos are also due to [Kelsey Herndon](https://github.com/herndk1) (NASA / UAH), [Dr. Africa-Flores-Anderson](https://github.com/africaf) (NASA), [Eric Anderson](https://github.com/andersoner) (NASA), Dr. Kevin Horn (NASA), Dr. Ashutosh Limaye (NASA), and Dan Irwin (NASA) of NASA MSFC.
+
