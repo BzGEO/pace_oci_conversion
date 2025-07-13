@@ -26,7 +26,7 @@ You will need [R](https://cran.r-project.org/) or [R Studio](https://posit.co/do
 
 4. After that, you can select which **Period** of data you want to download (i.e., daily, 8-day, or monthly), and you will want to select the [spatial] resolution (i.e., 2km, 4km, or 0.1 degree), and to select the *Mapped* option under **Type**. Next, click the green **Dowload** button at the bottom:
 
-![](https://github.com/BzGEO/pace_oci_conversion/blob/main/_graphics/nasa_obdaac_pace_oci__landvi_download_pt1b.png)
+
 
 5. This will generate a list of NetCDF (.NC) files that can be downloaded.
 
