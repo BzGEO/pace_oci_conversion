@@ -10,7 +10,7 @@ R scripts for converting PACE LandVI data from the original NetCDF to GeoTIF
 
 You will need [R](https://cran.r-project.org/) or [R Studio](https://posit.co/download/rstudio-desktop/) to use the script[s], and you will need the dependencies specified (i.e., [ncdf4](https://cran.r-project.org/web/packages/ncdf4/index.html) and [raster](https://cran.r-project.org/web/packages/raster/index.html)).
 
-## Suggested workflow
+## Workflow (suggested)
 
 1. Get PACE OCI LandVI data from the NASA OB.DAAC's Level 3 & Level 4 browser: https://oceandata.sci.gsfc.nasa.gov/l3/.
 
