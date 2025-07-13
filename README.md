@@ -28,7 +28,7 @@ You will need [R](https://cran.r-project.org/) or [R Studio](https://posit.co/do
 
 ![](https://github.com/BzGEO/pace_oci_conversion/blob/main/_graphics/nasa_obdaac_pace_oci__landvi_download_pt1b.png)
 
-5. 
+5. This will generate a list of NetCDF (.NC) files that can be downloaded.
 
 ![](https://github.com/BzGEO/pace_oci_conversion/blob/main/_graphics/nasa_obdaac_pace_oci__landvi_download_pt2.PNG)
 
