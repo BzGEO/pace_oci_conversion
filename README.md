@@ -36,6 +36,10 @@ You will need [R](https://cran.r-project.org/) or [R Studio](https://posit.co/do
 
 ![](https://github.com/BzGEO/pace_oci_conversion/blob/main/_graphics/nasa_earth_data_login.png)
 
+7. After downloading the data, you will be able to run the [script](https://github.com/BzGEO/pace_oci_conversion/blob/main/_scripts_R/netcdf_to_geotif__pace_landvi__2025-03-21.R) using [R](https://cran.r-project.org/).
+
+![](https://github.com/BzGEO/pace_oci_conversion/blob/main/_graphics/script_r_studio.png)
+
 ## Notes
 1. The standard vegetation indices provided for the provisional, version 3 of the PACE OCI data include:
 
