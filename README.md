@@ -1,4 +1,4 @@
-# Scripts for extracting NASA [PACE OCI](https://pace.oceansciences.org/oci.htm) vegetation index ([LandVI](https://oceancolor.gsfc.nasa.gov/data/10.5067/PACE/OCI/L2/LANDVI/3.0)) data to GeoTIF format
+# Scripts for extracting NASA [PACE OCI](https://pace.oceansciences.org/oci.htm) vegetation index ([LandVI](https://oceancolor.gsfc.nasa.gov/data/10.5067/PACE/OCI/L2/LANDVI/3.0)) and [Chlorophyll a]() data to GeoTIF format
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15870562.svg)](https://doi.org/10.5281/zenodo.15870562)
 
 R scripts for converting PACE LandVI data from the original NetCDF to GeoTIF
